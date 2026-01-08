@@ -7,7 +7,7 @@ This project explores gender-based differences in pay, career progression, leade
 
 The analysis focuses on identifying structural patterns that affect how employees progress within an organization, rather than only looking at overall headcount or salary differences.
 
-What this project examines
+What this project examines:
 
 Gender pay differences after accounting for job role and seniority
 
